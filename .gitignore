@@ -1,0 +1,22 @@
+# FrontEnd
+/frontend/node_modules
+/frontend//.pnp
+.pnp.js
+/frontend/coverage
+/frontend/build
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+# Backend
+/backend/node_modules
+/backend/.dockerignore
+/backend/docker-compose.yml
+/backend/.env
+/backend/package-*.json
+/backend/yarn-error.log
